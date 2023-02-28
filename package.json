@@ -1,0 +1,19 @@
+{
+  "name": "Aoi.js Tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cyclone Addons",
+  "license": "ISC",
+  "dependencies": {
+    "@cycloneaddons/welcomer": "^1.0.7",
+    "@types/node": "^18.0.6",
+    "aoi.js": "^5.5.5",
+    "discord.js": "^13.13.1",
+    "node-fetch": "^3.2.6"
+  }
+}
